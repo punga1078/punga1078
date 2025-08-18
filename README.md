@@ -29,7 +29,7 @@ Actualmente cursando la Diplomatura en Ciberseguridad en UNTREF (Mar–Dec 2025)
 
 ## 🏅 LetsDefend Certifications
 
-[![SOC Member](https://img.shields.io/badge/SOC%20Member-LetsDefend-green?style=for-the-badge)](https://app.letsdefend.io)
+[![SOC Member](https://img.shields.io/badge/SOC%20Member-LetsDefend-green?style=for-the-badge)](https://app.letsdefend.io/my-rewards/detail/efe72d63-210e-4a71-9767-b1ca8c56b71e)
 [![Phishing Expert](https://img.shields.io/badge/Phishing%20Expert-LetsDefend-blue?style=for-the-badge)](https://app.letsdefend.io/my-rewards/detail/f6966aeb-3486-4555-ad8f-553e548f06ff)
 [![Malware Analyzer](https://img.shields.io/badge/Malware%20Analyzer-LetsDefend-red?style=for-the-badge)](https://app.letsdefend.io/my-rewards/detail/ffa9c1be-39b7-4921-ac50-2203822bee28)
 [![Dynamic Analyst](https://img.shields.io/badge/Dynamic%20Analyst-LetsDefend-purple?style=for-the-badge)](https://app.letsdefend.io/my-rewards/detail/9eb522d7-6174-42d8-a15f-2a573935c5de)

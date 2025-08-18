@@ -55,3 +55,7 @@ Actualmente cursando la Diplomatura en Ciberseguridad en UNTREF (Mar–Dec 2025)
 
 Gracias por visitar mi perfil 🚀  
 *Always learning, always analyzing.*
+
+## 🧪 Featured Projects
+
+[![Bumblebee Write-up](https://img.shields.io/badge/Bumblebee%20Writeup-Forensics-blueviolet?style=for-the-badge&logo=github)](https://github.com/punga1078/bumblebee-Writeup)

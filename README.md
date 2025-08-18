@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi, I'm Facundo Andrés Caceres Tiznado (aka Punga)
 
-<!--
-**punga1078/punga1078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Cybersecurity Analyst in Training**  
+Actualmente cursando la Diplomatura en Ciberseguridad en UNTREF (Mar–Dec 2025), con experiencia práctica en análisis forense digital, reversing y detección de amenazas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+
+### ✅ What I work with confidently:
+- 🔍 Digital Forensics & Incident Response  
+- 🧬 Reverse Engineering (Java artifacts, payload decoding)  
+- 📊 Network Traffic Analysis (Wireshark)  
+- 🧾 Technical documentation & forensic write-ups
+
+### 🚧 Currently learning & improving:
+- 🌐 Web Pentesting (Burp Suite, OWASP ZAP)  
+- 🐍 Python & Bash scripting for automation  
+- ⚙️ SOC workflows & threat detection  
+- 📦 Malware unpacking & behavioral analysis
+
+---
+
+## 🧪 Labs & Certifications
+
+- 🎓 Diplomatura en Ciberseguridad – UNTREF  
+- 🛡️ LetsDefend Certifications  
+- 🕵️ Hack The Box Sherlocks & CyberDefenders CTFs
+
+---
+
+## 🧭 Learning Roadmap
+
+- 🔐 Profundizar en técnicas de pentesting web  
+- 🧠 Automatizar análisis forense con scripting  
+- 🧬 Explorar malware unpacking y análisis dinámico  
+- 📚 Documentar y compartir write-ups técnicos
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=punga1078&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punga1078&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/facundo-andres-caceres-tiznado-898709359/)  
+- 🧠 [Hack The Box](https://app.hackthebox.com/profile/overview)  
+- 📧 Email: facundo.caceres.tiz@gmail.com
+
+---
+
+Gracias por visitar mi perfil 🚀  
+*Always learning, always analyzing.*

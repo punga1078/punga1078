@@ -67,3 +67,4 @@ Gracias por visitar mi perfil 🚀
 ## 🧪 Featured Projects
 
 [![Bumblebee Write-up](https://img.shields.io/badge/Bumblebee%20Writeup-Forensics-blueviolet?style=for-the-badge&logo=github)](https://github.com/punga1078/bumblebee-Writeup)
+[![Black Pearl Write-up](https://img.shields.io/badge/Black%20Pearl%20Writeup-RCE%20%2F%20Root-red?style=for-the-badge&logo=kalilinux)](https://github.com/punga1078/tu-repo-black-pearl)

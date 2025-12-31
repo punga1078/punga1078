@@ -1,70 +1,57 @@
-# 👋 Hi, I'm Facundo Andrés Caceres Tiznado (aka Punga)
+# Facundo Andrés Cáceres Tiznado (aka Punga) / Facundo Andrés Cáceres Tiznado (aka Punga)
 
-🎯 **Cybersecurity Analyst in Training**  
-Actualmente cursando la Diplomatura en Ciberseguridad en UNTREF (Mar–Dec 2025), con experiencia práctica en análisis forense digital, reversing y detección de amenazas.
+[![Diplomatura](https://img.shields.io/badge/UNTREF-Diplomatura%20Ciberseguridad-blue?style=for-the-badge)]() [![LetsDefend](https://img.shields.io/badge/LetsDefend-Certs-green?style=for-the-badge)]()
 
+ES
 ---
+Soy Analista en Ciberseguridad en formación, con foco en DFIR (Digital Forensics & Incident Response), reversing y detección de amenazas. Actualmente cursando la Diplomatura en Ciberseguridad en UNTREF (Mar–Dec 2025). Busco roles junior/mid en DFIR, SOC y análisis de malware.
 
-## 🛠️ Skills & Tools
+Qué ofrezco:
+- Investigación forense reproducible y reportes técnicos claros.  
+- Reverse engineering de artefactos (Java, payloads).  
+- Análisis de tráfico de red (Wireshark) y extracción de IOC.  
+- Automatización de tareas forenses con Python/Bash.
 
-### ✅ What I work with confidently:
-- 🔍 Digital Forensics & Incident Response  
-- 🧬 Reverse Engineering (Java artifacts, payload decoding)  
-- 📊 Network Traffic Analysis (Wireshark)  
-- 🧾 Technical documentation & forensic write-ups
+Proyectos destacados (resumen):
+- BlackPearl Write-up — Write-up forense con hallazgos y artefactos.  
+  https://github.com/punga1078/BlackPearl-Writeup.md
 
-### 🚧 Currently learning & improving:
-- 🌐 Web Pentesting (Burp Suite, OWASP ZAP)  
-- 🐍 Python & Bash scripting for automation  
-- ⚙️ SOC workflows & threat detection  
-- 📦 Malware unpacking & behavioral analysis
+- ShadowShell — Honeypot con dashboard para captura y analítica.  
+  https://github.com/punga1078/ShadowShell
 
+- LogHunter Project — Herramienta para procesar y analizar logs.  
+  https://github.com/punga1078/LogHunter_Project
+
+- Cisco Enterprise Security Architecture — Laboratorio y topología Cisco (Packet Tracer).  
+  https://github.com/punga1078/Cisco-Enterprise-Security-Architecture
+
+Contacto:
+- LinkedIn: https://www.linkedin.com/in/facundo-andres-caceres-tiznado-898709359/  
+- Email: facundo.caceres.tiz@gmail.com
+
+EN
 ---
+I am a Cybersecurity Analyst in training with a focus on DFIR, reversing and threat detection. Currently enrolled in the Cybersecurity Diploma at UNTREF (Mar–Dec 2025). Seeking junior/mid roles in DFIR, SOC, or malware analysis.
 
-## 🧪 Labs & Certifications
+What I bring:
+- Reproducible forensic investigations and clear technical reports.  
+- Reverse engineering (Java artifacts, payload decoding).  
+- Network traffic analysis (Wireshark) and IOC extraction.  
+- Automation using Python/Bash.
 
-- 🎓 Diplomatura en Ciberseguridad – UNTREF  
-- 🛡️ LetsDefend Certifications  
-- 🕵️ Hack The Box Sherlocks & CyberDefenders CTFs
+Featured projects (summary):
+- BlackPearl Write-up — forensic write-up with findings and artifacts.  
+  https://github.com/punga1078/BlackPearl-Writeup.md
 
-## 🏅 LetsDefend Certifications
+- ShadowShell — Honeypot + dashboard for capture & analytics.  
+  https://github.com/punga1078/ShadowShell
 
-[![SOC Member](https://img.shields.io/badge/SOC%20Member-LetsDefend-green?style=for-the-badge)](https://app.letsdefend.io/my-rewards/detail/efe72d63-210e-4a71-9767-b1ca8c56b71e)
-[![Phishing Expert](https://img.shields.io/badge/Phishing%20Expert-LetsDefend-blue?style=for-the-badge)](https://app.letsdefend.io/my-rewards/detail/f6966aeb-3486-4555-ad8f-553e548f06ff)
-[![Malware Analyzer](https://img.shields.io/badge/Malware%20Analyzer-LetsDefend-red?style=for-the-badge)](https://app.letsdefend.io/my-rewards/detail/ffa9c1be-39b7-4921-ac50-2203822bee28)
-[![Dynamic Analyst](https://img.shields.io/badge/Dynamic%20Analyst-LetsDefend-purple?style=for-the-badge)](https://app.letsdefend.io/my-rewards/detail/9eb522d7-6174-42d8-a15f-2a573935c5de)
-[![Web Attack Investigator](https://img.shields.io/badge/Web%20Attack%20Investigator-LetsDefend-orange?style=for-the-badge)](https://app.letsdefend.io/my-rewards/detail/0cab90a6-e538-42ac-8388-13100c975012)
+- LogHunter Project — log-processing and analysis tool.  
+  https://github.com/punga1078/LogHunter_Project
 
----
+- Cisco Enterprise Security Architecture — Packet Tracer lab & topology.  
+  https://github.com/punga1078/Cisco-Enterprise-Security-Architecture
 
-## 🧭 Learning Roadmap
-
-- 🔐 Profundizar en técnicas de pentesting web  
-- 🧠 Automatizar análisis forense con scripting  
-- 🧬 Explorar malware unpacking y análisis dinámico  
-- 📚 Documentar y compartir write-ups técnicos
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=punga1078&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punga1078&layout=compact&theme=radical)
-
----
-
-## 📫 Connect with me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/facundo-andres-caceres-tiznado-898709359/)  
-- 🧠 [Hack The Box](https://app.hackthebox.com/profile/overview)  
-- 📧 Email: facundo.caceres.tiz@gmail.com
-
----
-
-Gracias por visitar mi perfil 🚀  
-*Always learning, always analyzing.*
-
-## 🧪 Featured Projects
-
-[![Bumblebee Write-up](https://img.shields.io/badge/Bumblebee%20Writeup-Forensics-blueviolet?style=for-the-badge&logo=github)](https://github.com/punga1078/bumblebee-Writeup)
-[![Black Pearl Write-up](https://img.shields.io/badge/Black%20Pearl%20Writeup-RCE%20%2F%20Root-red?style=for-the-badge&logo=kalilinux)](https://github.com/punga1078/tu-repo-black-pearl)
+Contact:
+- LinkedIn: https://www.linkedin.com/in/facundo-andres-caceres-tiznado-898709359/  
+- Email: facundo.caceres.tiz@gmail.com
